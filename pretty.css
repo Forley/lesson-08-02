@@ -1,0 +1,146 @@
+.fav{
+    height: 250px;
+    width: auto;
+    filter: hue-rotate(0deg);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+.fav:hover{
+    filter: hue-rotate(25deg);
+}
+
+.help{
+    filter: hue-rotate(0deg);
+    overflow:hidden;
+    position: sticky;
+    top: 0;
+}
+.help:hover{
+    filter: hue-rotate(300deg);
+}
+
+.bear{
+    float: right;
+    overflow:hidden;
+    width: 120px;
+    height: auto;
+    margin-top: 40px;
+}
+
+.burger{
+    width: 120px;
+    height:auto;
+    margin-top: 40px;
+    float:left;
+    overflow: hidden;
+    
+
+}
+
+
+
+
+#top{
+    text-align: center;
+    color: rgb(247,119,164);
+    font-size: 60px;
+    font-family: 'Abril Fatface', cursive;
+}
+.background{
+    background-color: rgb(40,217,170);
+}
+.backgroundb{
+    background-color: #403c3b;
+}
+.list{ 
+    color: rgb(247,119,164) ; 
+    font-size: 28px;
+    text-align: left;
+    width: 50%;
+    position:relative;
+    left:35%;
+}
+
+
+#almost{
+  left:40%;  
+}
+#done{
+    left:40%;
+}
+
+    
+p{ 
+    color: rgb(247,119,164); 
+    font-size: 30px;
+    font-weight: bold;
+    text-align:center;
+    font-family: 'Festive', cursive;
+    font-family: 'IBM Plex Mono', monospace;
+    
+}
+
+.intro{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.ireal{ 
+    color: rgb(255, 184, 199); 
+    font-size: 35px;
+    font-weight: bold;
+    text-align:center;
+}
+
+.irealb{ 
+    color: #a1dbe3; 
+    font-size: 35px;
+    font-weight: bold;
+    text-align:center;
+}
+
+.irealc{ 
+    color: #5e95bd; 
+    font-size: 35px;
+    font-weight: bold;
+    text-align:center;
+}
+
+#class{
+    background-color:rgb(247,119,164);
+    width: 70%;
+    height: 50%;
+    margin:auto;
+    text-align: center;
+}
+
+#head{
+    color:rgb(255, 184, 199);
+    font-size: 25;
+    font-weight:bold;
+}
+
+.a{
+   background-color:rgb(255, 184, 199) !important;
+   color:rgb(247,119,164);
+   font-size: 20;
+   font-weight:bold; 
+}
+
+.b{
+    color:rgb(255, 184, 199);
+    font-size: 20;
+    font-weight:bold; 
+}
+
+#like{
+  font-family: 'Courgette', cursive;  
+}
+
+span{
+   font-family: 'BIZ UDPMincho', serif;
+   font-style: italic;
+}
